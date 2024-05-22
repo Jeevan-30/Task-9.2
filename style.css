@@ -1,0 +1,22 @@
+body {
+    background-color:black;
+}
+
+.calculator {
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.calculator .btn {
+    height: 60px;
+    font-size: 1.5rem;
+}
+
+#display {
+    height: 80px;
+    font-size: 2rem;
+    border: none;
+    color: white;
+    background-color:black;
+    box-shadow: inset 0 0 5px(0, 0, 0, 0.1);
+}
